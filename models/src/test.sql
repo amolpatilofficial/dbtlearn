@@ -1,0 +1,1 @@
+ select NAME, PRICE from AIRBNB.RAW.RAW_LISTINGS
